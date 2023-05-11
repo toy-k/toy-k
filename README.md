@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>I AM</h2>
+<h2>I'm</h2>
 <hr>
 
 ### Hi there I'm JeongHwan Lee👋
