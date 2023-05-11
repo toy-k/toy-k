@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>INTRO</h2>
+<h2 align="center">INTRO</h2>
 <hr>
 
 ### Hi there I'm JeongHwan Lee👋
@@ -29,7 +29,7 @@ Currently, I'm reading books on improving construction labor productivity and th
 
 <br>
 <br>
-<h2>🔭SKILL</h2>
+<h2 align="center">🔭STACKS</h2>
 <hr>
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
@@ -66,7 +66,7 @@ Currently, I'm reading books on improving construction labor productivity and th
 
 <br>
 <br>
-<h2> Community </h2>
+<h2 align="center"> Community </h2>
 
 [![42seoul](https://img.shields.io/badge/42seoul-000000?style=for-the-badge&logo=42&logoColor=white)]()
 
