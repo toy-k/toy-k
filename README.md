@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>I'm</h2>
 <hr>
 
-### Hi there I'm JeongHwan Lee👋
-### I'm a web backend developer from South Korea 
-who wants to be a solver of offline problems and improve and solve them with online technologies.<br>
-I'm fascinated by how technology has changed and continues to change the entire human and biological lifestyle on Earth. <br>
-Currently, I'm reading books on improving construction labor productivity and the environment and Yuval Noah Harari's Sapiens.  <br>
+### 안녕하세요. 
+### 백엔드 개발자 이정환 입니다. 👋 
 
-- 🔭I'm currently [42seoul](https://42seoul.kr/seoul42/main/view) member([42ecole](https://42.fr))
-- 🌱I'm currently learning JAVA and SPRING
+
+문제를 잘 해결하는 능력에 관심 있습니다.
+인간과 기술의 공진화에 눈길 갑니다.
+
+
+- 🔭 42SEOUL 수료했습니다. [42seoul](https://42seoul.kr/seoul42/main/view)  ([42ecole](https://42.fr))
+- 🌱 최근에 JAVA 와 SPRING 학습 중입니다.
 
 <br>
 <br>
